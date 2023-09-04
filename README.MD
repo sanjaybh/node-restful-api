@@ -14,6 +14,11 @@ Make sure to also add your Mongo Atlas Admin Username to a nodemon.json file (wh
         "MONGO_ATLAS_PW": "YOUR_MONGO_USER_PW"
     }
 }
+
+MONGO_USER = <user>
+MONGO_PASS = <pass>
+MONGO_DBNAME = <dbname>
+MONGO_CLUSTER = <cluster>
 ```
 
 OLD version - packages need to be upgraded, refer package.json
