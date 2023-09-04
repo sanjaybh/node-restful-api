@@ -16,7 +16,7 @@ Make sure to also add your Mongo Atlas Admin Username to a nodemon.json file (wh
 }
 ```
 
-OLD version
+OLD version - packages need to be upgraded, refer package.json
 
 "bcrypt": "^1.0.3",
 "body-parser": "^1.18.2",
